@@ -1,0 +1,3 @@
+name: launchGitLab
+runtime: nodejs
+description: This trial gives me a gitlab instance

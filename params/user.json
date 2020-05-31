@@ -1,0 +1,12 @@
+{
+	Users {
+		{
+			"userName": "momotaro",
+			"email": "momotaro@onitaiiji.com"
+		 },
+		 {
+			 "userName": "inuDog",
+			 "email": "wangwang@onitaiji.com"
+		 }
+	}
+}
